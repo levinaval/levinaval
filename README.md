@@ -1,8 +1,14 @@
 <h1 align="center">Hi 👋, I'm Levi Naval</h1>
 <h3 align="center">Desenvolvedor Web </h3>
 
-- 🌱 I'm currently learning **Ruby HTML**
+- 🌱 I'm currently learning **Ruby - HTML5**
 - 📫 How to reach me **levisantosluna@gmail.com**
+
+### Pequeno resumo sobre mim:
+
+Sou um alguem que esta descobrindo tudo que se refere a TI, pois acredito que a tecnologia melhora a vida das pessoas, independe de quem são ou de onde vem.
+Programar é o que estou aprendendo e encantando-me!!! Espero um dia poder contribuir com o desenvolvemento de novas tecnologias para ajundar as pessoas a ter uma vida melhor, assim como a minha está melhorando.
+<br><br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -12,9 +18,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.ruby-lang.org/en/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a>
-  <a href="https://rubyonrails.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a>
-</p>
-
+  
 <p>
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=levinaval&show_icons=true&locale=en&layout=compact" alt="levinaval" />
   <img align="left" alt="LeviNaval's Github Stats" src="https://github-readme-stats.vercel.app/api?username=levinaval&show_icons=true&hide_border=true" />
