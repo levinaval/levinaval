@@ -18,6 +18,7 @@ Programar é o que estou aprendendo e encantando-me!!! Espero um dia poder contr
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.ruby-lang.org/en/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a>
+  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/html_original_wordmark_logo_icon_146478.png" alt="html" width="40" height="40" style="max-width:100%;"></img>
   
 <p>
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=levinaval&show_icons=true&locale=en&layout=compact" alt="levinaval" />
