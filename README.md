@@ -14,6 +14,12 @@ Programar é o que estou aprendendo e encantando-me!!! Espero um dia poder contr
 <p align="left">
   <a href=̈́www.linkedin.com/in/levisantoss" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </p>
+<a href="https://www.instagram.com/leandrolevisantos/">
+<img align="center" alt="diego-instagram" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" style="max-width:100%;">
+</a>
+<a href="https://www.facebook.com/levi.santos.108/">
+<img align="center" alt="diego-instagram" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" style="max-width:100%;">
+</a>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
