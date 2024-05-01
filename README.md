@@ -43,7 +43,7 @@ class Programmer
         </tr>
         <tr>
 		<td>2</td>
-		<td><a href="https://github.com/levinaval/Ruby/tree/master/aplicacao"><b>Aplicação</b></a></td>
+		<td><a href=""><b>Aplicação</b></a></td>
 	 	<td>Developer</td>
 	    	<td><img alt="Stars" src="https://img.shields.io/github/stars/marcodotcastro/portal-agro?style=flat-square&labelColor=343b41" /></td>
             	<td><img alt="Forks" src="https://img.shields.io/github/forks/marcodotcastro/portal-agro?style=flat-square&labelColor=343b41" /></td>
@@ -52,7 +52,7 @@ class Programmer
         </tr>
         <tr>
 		<td>3</td>
-            	<td><a href=""><b>A definir</b></a></td>
+            	<td><a href="https://github.com/levinaval/Ruby/tree/master/aplicacao"><b>Aplicação</b></a></td>
 		<td>DevOps</td>
             	<td><img alt="Stars" src="https://img.shields.io/github/stars/marcodotcastro/application-lifecycle-management?style=flat-square&labelColor=343b41" /></td>
             	<td><img alt="Forks" src="https://img.shields.io/github/forks/marcodotcastro/application-lifecycle-management?style=flat-square&labelColor=343b41" /></td>
